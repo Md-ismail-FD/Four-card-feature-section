@@ -1,4 +1,3 @@
-![five s](https://github.com/user-attachments/assets/6ac49972-cda7-4dd4-b18b-7e85495092bc)# Frontend Mentor - Four card feature section
 
 schreenshort
 ![four card componetnt](https://github.com/user-attachments/assets/132d93f8-ce19-4153-ba19-61c7f88ab39f)
