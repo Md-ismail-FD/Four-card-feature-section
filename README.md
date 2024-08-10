@@ -1,6 +1,9 @@
 # Frontend Mentor - Four card feature section
 
-![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
+schreenshort
+![four card componetnt](https://github.com/user-attachments/assets/132d93f8-ce19-4153-ba19-61c7f88ab39f)
+![four screen](https://github.com/user-attachments/assets/22636594-992b-4969-b24c-ad2e40dba123)
+
 
 ## Welcome! 👋
 
