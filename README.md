@@ -1,8 +1,10 @@
-# Frontend Mentor - Four card feature section
+![five s](https://github.com/user-attachments/assets/6ac49972-cda7-4dd4-b18b-7e85495092bc)# Frontend Mentor - Four card feature section
 
 schreenshort
 ![four card componetnt](https://github.com/user-attachments/assets/132d93f8-ce19-4153-ba19-61c7f88ab39f)
-![four screen](https://github.com/user-attachments/assets/22636594-992b-4969-b24c-ad2e40dba123)
+![five s](https://github.com/user-attachments/assets/7af42804-522a-4005-9d96-1421ccf882eb)
+
+
 
 
 ## Welcome! 👋
