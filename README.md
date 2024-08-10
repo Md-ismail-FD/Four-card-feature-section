@@ -1,6 +1,9 @@
 # Frontend Mentor - Single price grid component
 
-![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
+schreenshort
+![single](https://github.com/user-attachments/assets/0bbcd398-3b2c-4d26-851d-9efbd44a48a2)
+![single m](https://github.com/user-attachments/assets/dbe0f26a-f94a-4d26-9ac3-d3ac2a8d5482)
+
 
 ## Welcome! 👋
 
